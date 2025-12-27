@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Linux Airpods Portage**<br><br>- 🌱 I’m currently learning **MachineLearning and DeepLearning development, and Elettrical Engineering**<br><br>- 💬 Ask me about **ReinforcementLearning, LogicProblems in C++**<br><br>- 📫 How to reach me **ottaviomalatacca030907@gmail.com**<br><br>- ⚡ Fun fact 👇🏼<br>    **🎬 Im also an editor with some skills and experience: [YouTube Channel](https://www.youtube.com/@Ossigen8)**<br>**👕 I like Wearing Good clothes and i'm into styling <br>🧠📈 Personal Finance addicted, PassiveFund 🗣️🔥**
+💬 Ask me about **ReinforcementLearning, LogicProblems in C++**<br><br>- 📫 How to reach me **ottaviomalatacca030907@gmail.com**<br><br>- ⚡ Fun fact 👇🏼<br>    **🎬 Im also an editor with some skills and experience: [YouTube Channel](https://www.youtube.com/@Ossigen8)**<br>**👕 I like Wearing Good clothes and i'm into styling <br>🧠📈 Personal Finance addicted, PassiveFund 🗣️🔥**
 
 
 # 📊 GitHub Stats:
